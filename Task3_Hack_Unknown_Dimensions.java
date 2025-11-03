@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Hack_Difficult_Encrypted_Msg{
+public class Task3_Hack_Unknown_Dimensions{
 
     public static void main(String[] args) {
         // Encrypted message and target message
