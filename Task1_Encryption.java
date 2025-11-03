@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class DoubleTransposition{
+public class Task1_Encryption{
     public static void main(String[]args){
 
         Scanner scanner = new Scanner(System.in);
