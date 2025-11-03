@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Hack_Encrypted_Msg {
+public class Task2_Hack_Known_Dimensions{
     public static void main(String[] args) {
         String encryptedMessage = "_rinftomoa.r31o_2sueua_tIasm__cct_SiyuernnfIdo_te_";
         String expectedDecryptedMessage = "I_am_a_student_of_Information_Security_course_321.";
